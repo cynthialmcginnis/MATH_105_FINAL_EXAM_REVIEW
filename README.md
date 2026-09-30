@@ -4,7 +4,7 @@ An interactive, self-paced review for the MATH 105 (Topics for Mathematical Lite
 
 The lecture covers all 24 topics on the ALEKS final exam. Each topic pairs a worked example with a practice problem that students solve and check in the browser.
 
-**Live page:** `https://<your-username>.github.io/<repo-name>/MATH105_Final_Exam_Review_Lecture.html`
+**Live page:** `https://cynthialmcginnis.github.io/MATH_105_FINAL_EXAM_REVIEW/MATH105_Final_Exam_Review_Lecture.html`
 
 ## What students do
 
